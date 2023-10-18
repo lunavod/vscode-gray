@@ -4,6 +4,7 @@ node_modules
 .vscode-test/
 .venv/
 .vs/
+.vsix
 .nox/
 bundled/libs/
 **/__pycache__

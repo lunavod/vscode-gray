@@ -1,22 +1,22 @@
 {
     "name": "gray-formatter",
     "displayName": "Gray Formatter",
-    "description": "Linting support for python files using `gray-formatter`.",
-    "version": "2022.0.0-dev",
+    "description": "Formatting support for python files using `gray-formatter`.",
+    "version": "0.0.2",
     "preview": true,
     "serverInfo": {
         "name": "Gray Formatter",
         "module": "gray-formatter"
     },
-    "publisher": "<my-publisher>",
+    "publisher": "Procratstinator",
     "license": "MIT",
-    "homepage": "https://github.com/<my-github>/<my-extension-project>",
+    "homepage": "https://github.com/lunavod/vscode-gray",
     "repository": {
         "type": "git",
-        "url": "https://github.com/<my-github>/<my-extension-project>.git"
+        "url": "https://github.com/lunavod/vscode-gray.git"
     },
     "bugs": {
-        "url": "https://github.com/<my-github>/<my-extension-project>/issues"
+        "url": "https://github.com/lunavod/vscode-gray/issues"
     },
     "galleryBanner": {
         "color": "#1e415e",
