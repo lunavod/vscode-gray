@@ -46,9 +46,9 @@ colorama==0.4.6 \
     --hash=sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44 \
     --hash=sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6
     # via click
-gray-formatter==3.0.9 \
-    --hash=sha256:0fbc245301c994e88af31ee313f1fe7b8b642c9d72c0b1d2cf330beeacfe0442 \
-    --hash=sha256:cb19c6af123bf5f655a4f909d43ba1dc01cc5b42d1d1e1a1eaca97858712b03c
+gray-formatter==3.0.10 \
+    --hash=sha256:d8eb1c29d881fa5bbe9d91af72724b9b3aaa4f3c17974ff13cb4fad0b3d4d7b0 \
+    --hash=sha256:ef09a944f89f4a90b53fa82ab9652ef77b93ca995a7463ce76d5f0ac440b562f
     # via -r ./requirements.in
 lsprotocol==2023.0.0b1 \
     --hash=sha256:ade2cd0fa0ede7965698cb59cd05d3adbd19178fd73e83f72ef57a032fbb9d62 \
